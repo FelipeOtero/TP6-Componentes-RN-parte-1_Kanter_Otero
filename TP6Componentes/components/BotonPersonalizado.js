@@ -1,4 +1,3 @@
-// BotonCustom.js
 import React from 'react';
 import { Button, TouchableOpacity, Pressable, Text, StyleSheet } from 'react-native';
 
