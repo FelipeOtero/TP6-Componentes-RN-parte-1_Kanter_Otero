@@ -1,4 +1,3 @@
-// Formulario.js
 import React, { useState } from 'react';
 import { View, Text, TextInput, StyleSheet } from 'react-native';
 import BotonPersonalizado from './BotonPersonalizado';
